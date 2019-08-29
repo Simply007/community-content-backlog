@@ -35,9 +35,9 @@ Title: **Building a static site with Gatsby.js + How to use GraphQL with Kentico
 * Kentico Cloud content structure ing Gatsby GraphQL content model
   * Start from content structure -> Reusable components
 * Showcase on one complex model -> Company intranet with personal space
-  * Possibly use Material descign framework for react (https://demos.creative-tim.com/material-dashboard-react/#/admin/dashboard)
+  * Possibly use Material design framework for react (https://demos.creative-tim.com/material-dashboard-react/#/admin/dashboard)
   * https://app.kenticocloud.com/09fc0115-dd4d-00c7-5bd9-5f73836aee81/content-models/types
-  * User name + surname -> connect in Gatsby 
+  * User name + surname -> connect in Gatsby
   * rich text used to create a personal BIO, landing page
   * Multilingual links
   * Type -> Itemsl links
@@ -49,6 +49,12 @@ Title: **Building a static site with Gatsby.js + How to use GraphQL with Kentico
       * resolve rich text to a structured React components
 * Interested in static site generator - meet us and the stand
 * Deploy showcase and add the link + QR code to the presentation
+
+Note
+
+Static site sounds like 1995. Set of few not at all flexible HTML files suitable maybe for landing pages, right? But what if I told you that static sites are just like dynamic pages with caching. That your static website can automatically stay up-to-date even with frequent changes of content. Is the benefit of performance, security and easy hosting worth considering going static?
+
+Using GraphQL has many benefits and front-end developers percieve it as industry standard. I will show you how to leverage GraphQL within a project that uses Kentico Cloud and other third party services and how it speeds up its development.
 
 ### Expectations
 
